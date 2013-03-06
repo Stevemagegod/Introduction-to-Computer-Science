@@ -25,7 +25,7 @@ int main()
         double score=1;
         double total=1;
         double average=1;
- 
+ //k
         cout << "Do you want to calculate an average (Y or N)?";
         cin >> answer;
         cin.ignore(100,'\n');
