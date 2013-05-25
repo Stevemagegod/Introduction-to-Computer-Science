@@ -1,7 +1,5 @@
 #include <iostream>
     using namespace std;
- 
-        //http://www.daniweb.com/software-development/cpp/threads/236072/internet-provider-switch-program-help
      
     int main(){
                 double A=9.95;
