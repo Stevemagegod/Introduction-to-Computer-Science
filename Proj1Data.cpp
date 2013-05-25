@@ -29,19 +29,16 @@ void main()
 }
  
  
-input.txt
-Zach Labelle:3575.00
+//input.txt
  
  
-output.txt
+//output.txt
+//Gross Amount: ..............$3575.00
  
-Zach Labelle
-Gross Amount: ..............$3575.00
+//Federal Tax: ...............$ 536.25
+//State Tax:  ................$ 125.13
+//Social Security Tax: .......$ 205.56
+//Medicare/Medicaid Tax: .....$  98.31
+//Pension Plan: ..............$ 178.75
  
-Federal Tax: ...............$ 536.25
-State Tax:  ................$ 125.13
-Social Security Tax: .......$ 205.56
-Medicare/Medicaid Tax: .....$  98.31
-Pension Plan: ..............$ 178.75
- 
-Net Pay: ...................$2431.00
+//Net Pay: ...................$2431.00
