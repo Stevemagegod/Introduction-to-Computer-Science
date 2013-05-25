@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Intro.cpp
-// Author      : Stephen Graser
+// Author      : Xianb
 // Class       : Introduction to C++
 // Copyright   : Your copyright notice
 // Description : Class Project
@@ -49,10 +49,10 @@ Rinsurancefee = -0;
 Rnetpay = Rearned - Runionfee - Rinsurancefee;
 
 ofstream outputFile;
-outputFile.open("U:\\ proj1ResultsStephenGraser.txt");
+outputFile.open("U:\\ proj1ResultsXianb.txt");
 
 cout << " Writing new data to file proj1Result.txt now!\n";
-outputFile << "Stephen Graser"<< 
+outputFile << "Xianb"<< 
 outputFile <<"Net Pay"<< 
 outputFile << "Total Earned"<< 
 outputFile << "Insurance Fee"<<
