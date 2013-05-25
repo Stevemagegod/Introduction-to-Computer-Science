@@ -71,7 +71,6 @@ return 0;
 ========================================================================================================
 CS111 – Introduction to Computer Science
 Fall 2012
-Mr. MacKay
 Project 1 – due Monday, November 5th  at the beginning of class
 
 General Description:  The Company you work for has asked you to write a program that reads some hourly employee pay information from a file, calculates their Net Pay, and saves a formatted report to a file.
