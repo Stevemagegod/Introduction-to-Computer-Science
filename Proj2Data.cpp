@@ -1,5 +1,5 @@
 //==============================
-//Name:       Stephen Graser
+//Name:       
 //Project:    Project 2
 //Class:    CS111
 //Date:        12/3/12
